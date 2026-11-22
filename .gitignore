@@ -1,5 +1,6 @@
-
-poems/.DS_Store
-stuff/.DS_Store
+# OS junk
 .DS_Store
-.DS_Store
+**/.DS_Store
+Thumbs.db
+**/Thumbs.db
+desktop.ini

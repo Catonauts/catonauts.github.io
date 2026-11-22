@@ -1,17 +1,17 @@
-@font-face { font-family: 'Pixeled'; src: url("../fonts/Pixeled.ttf"); }
-@font-face { font-family: 'Romochka'; src: url("../fonts/Romochka.otf"); }
+@font-face { font-family: 'Pixeled'; src: url("fonts/Pixeled.ttf"); }
+@font-face { font-family: 'Romochka'; src: url("fonts/Romochka.woff2") format("woff2"), url("fonts/Romochka.otf") format("opentype"); }
 
 .ShareTechMono{
     font-family: 'Share Tech Mono', monospace;
-    font-size: 14;
+    font-size: 14px;
 }
 .Pixeled{
     font-family:'Pixeled';
-    font-size: 14;
+    font-size: 14px;
 }
 .Leftmenu{
     font-family:'Romochka';
-    font-size: 18;
+    font-size: 18px;
     line-height: 18px;
     text-transform: uppercase;
     font-weight: 900;
@@ -23,7 +23,7 @@ a.Leftmenu:hover {COLOR: #000000; TEXT-DECORATION: none;}
 
 .indexmenu{
     font-family:'Romochka';
-    font-size: 20;
+    font-size: 20px;
     line-height: 18px;
     text-transform: uppercase;
     font-weight: 400;
